@@ -26,7 +26,7 @@ class YowsupEchoStack(object):
 
 if __name__=="__main__":
     #from yowsup.demos import echoclient
-    credentials = ("917069144898", "DinPhulXbC98ro9bF62CT3VbMPo=")
+    credentials = ("917069144898", "DinPhulXbC98ro9bF62CT3VbMPo=") #<-enter new no.&pass here. this one is banned already.
     if not credentials:
         print("Error: You must specify a configuration method")
         exit(1)
