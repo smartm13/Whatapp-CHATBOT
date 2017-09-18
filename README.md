@@ -5,9 +5,11 @@ Python environment [linux prefered]
 
 
 Setup steps:
+
 [sudo] pip install yowsup2
 
 Register your phone number on whatsapp and obtain ur password:
+
 yowsup-cli registration --requestcode sms --phone 91XXXXXXXXXX --cc 91 --mcc 123 --mnc 456
 yowsup-cli registration --register 123456 --phone 91XXXXXXXXXX --cc 91  
 
