@@ -1,0 +1,21 @@
+https://github.com/tgalal/yowsup/issues/2237#issuecomment-327764579
+
+Version: 2.17.329
+ClassesDex: bDsdWi0yvVhqavctrvA4Sw==
+
+942713
+942713
+
+
+INFO:yowsup.common.http.warequest:{"status":"ok","login":"918200277688","type":"new","edge_routing_info":"CAA=","chat_dns_domain":"sl","pw":"hUg8EWEZBsrnF3O9Hyw3r0DT8mY=","e
+xpiration":4444444444.0,"kind":"free","price":"\u20b9 55","cost":"55.00","currency":"INR","price_expiration":1507932212}
+status: ok
+kind: free
+pw: hUg8EWEZBsrnF3O9Hyw3r0DT8mY=
+price: ? 55
+price_expiration: 1507932212
+currency: INR
+cost: 55.00
+expiration: 4444444444.0
+login: 918200277688
+type: new
