@@ -16,6 +16,13 @@ yowsup-cli registration --register 123456 --phone 91XXXXXXXXXX --cc 91
 
 For indian numbers refer:http://mcc-mnc-india.blogspot.in/
 
+if u get following error while registeration:
+{status: fail, 
+reason: old_version}
+
+then follow : https://github.com/tgalal/yowsup/issues/2237#issuecomment-327764579
+
+
 Now enter that phoneno. and password in /run.py:29
 
 Finally execute: python run.py
